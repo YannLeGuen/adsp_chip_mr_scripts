@@ -1,0 +1,19 @@
+# Controlled cohort data and generated results stay outside version control.
+data/
+results/
+software/
+.venv/
+__pycache__/
+*.py[cod]
+*.vcf
+*.vcf.gz
+*.vcf.bgz
+*.bcf
+*.bam
+*.cram
+*.tbi
+*.csi
+*.bai
+*.crai
+.env
+.DS_Store
