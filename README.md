@@ -1,4 +1,5 @@
 # ADSP CHIP and Alzheimer disease analyses
+Creative Commons NonCommercial (CC BY-NC)
 
 This repository identifies CHIP carriers in ADSP whole-genome sequencing (WGS)
 and whole-exome sequencing (WES), fits CHIP–Alzheimer disease association models,
@@ -223,3 +224,5 @@ selection.
 - [TwoSampleMR documentation](https://mrcieu.github.io/TwoSampleMR/)
 - [bcftools documentation](https://samtools.github.io/bcftools/bcftools.html)
 - [statsmodels GLM documentation](https://www.statsmodels.org/stable/glm.html)
+
+Creative Commons NonCommercial (CC BY-NC)
