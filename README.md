@@ -225,4 +225,9 @@ selection.
 - [bcftools documentation](https://samtools.github.io/bcftools/bcftools.html)
 - [statsmodels GLM documentation](https://www.statsmodels.org/stable/glm.html)
 
+Nature requirements
+Typical installation time: Approximately 5–20 minutes on a standard desktop computer.
+
+Expected run time: Approximately 48 hours to process the full ADSP WGS dataset using a single CPU; actual run time depends on VCF file size and hardware.
+
 Creative Commons NonCommercial (CC BY-NC)
